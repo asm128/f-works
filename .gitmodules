@@ -1,0 +1,48 @@
+[submodule "Adafruit_BusIO"]
+	path = Adafruit_BusIO
+	url = https://github.com/asm128/Adafruit_BusIO
+[submodule "Adafruit_Sensor"]
+	path = Adafruit_Sensor
+	url = https://github.com/asm128/Adafruit_Sensor
+[submodule "Adafruit_BMP280_Library"]
+	path = Adafruit_BMP280_Library
+	url = https://github.com/asm128/Adafruit_BMP280_Library
+[submodule "Adafruit_BNO055"]
+	path = Adafruit_BNO055
+	url = https://github.com/asm128/Adafruit_BNO055
+[submodule "AsyncTCP"]
+	path = AsyncTCP
+	url = https://github.com/asm128/AsyncTCP
+[submodule "TinyGPSPlus"]
+	path = TinyGPSPlus
+	url = https://github.com/asm128/TinyGPSPlus
+[submodule "Temperature_LM75_Derived"]
+	path = Temperature_LM75_Derived
+	url = https://github.com/asm128/Temperature_LM75_Derived/
+[submodule "SparkFun_IridiumSBD_I2C_Arduino_Library"]
+	path = SparkFun_IridiumSBD_I2C_Arduino_Library
+	url = https://github.com/asm128/SparkFun_IridiumSBD_I2C_Arduino_Library
+[submodule "LMS7002M-driver"]
+	path = LMS7002M-driver
+	url = https://github.com/asm128/LMS7002M-driver
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/asm128/zlib
+[submodule "llc"]
+	path = llc
+	url = https://github.com/asm128/llc
+[submodule "saithon"]
+	path = saithon
+	url = https://github.com/asm128/saithon
+[submodule "nio_firmware"]
+	path = nio_firmware
+	url = https://github.com/asm128/nio_firmware
+[submodule "saipp"]
+	path = saipp
+	url = https://github.com/asm128/saipp
+[submodule "saimon"]
+	path = saimon
+	url = https://github.com/asm128/saimon
+[submodule "sai.js"]
+	path = sai.js
+	url = https://github.com/asm128/sai.js
