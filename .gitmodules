@@ -46,3 +46,9 @@
 [submodule "sai.js"]
 	path = sai.js
 	url = https://github.com/asm128/sai.js
+[submodule "lms6002d"]
+	path = lms6002d
+	url = https://github.com/asm128/lms6002d
+[submodule "lms7002m"]
+	path = lms7002m
+	url = https://github.com/asm128/lms7002m
