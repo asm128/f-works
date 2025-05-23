@@ -52,3 +52,21 @@
 [submodule "lms7002m"]
 	path = lms7002m
 	url = https://github.com/asm128/lms7002m
+[submodule "Arduino-Temperature-Control-Library"]
+	path = Arduino-Temperature-Control-Library
+	url = https://github.com/gondolar/Arduino-Temperature-Control-Library
+[submodule "OneWire"]
+	path = OneWire
+	url = https://github.com/gondolar/OneWire
+[submodule "Adafruit-ST7735-Library"]
+	path = Adafruit-ST7735-Library
+	url = https://github.com/asm128/Adafruit-ST7735-Library
+[submodule "Adafruit_Seesaw"]
+	path = Adafruit_Seesaw
+	url = https://github.com/asm128/Adafruit_Seesaw
+[submodule "SD"]
+	path = SD
+	url = https://github.com/asm128/SD
+[submodule "Adafruit-GFX-Library"]
+	path = Adafruit-GFX-Library
+	url = https://github.com/asm128/Adafruit-GFX-Library
