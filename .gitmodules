@@ -70,3 +70,42 @@
 [submodule "Adafruit-GFX-Library"]
 	path = Adafruit-GFX-Library
 	url = https://github.com/asm128/Adafruit-GFX-Library
+[submodule "espsoftwareserial"]
+	path = espsoftwareserial
+	url = https://github.com/asm128/espsoftwareserial
+[submodule "ESPAsyncWebServer"]
+	path = ESPAsyncWebServer
+	url = https://github.com/asm128/ESPAsyncWebServer
+[submodule "Arduino-IRremote"]
+	path = Arduino-IRremote
+	url = https://github.com/asm128/Arduino-IRremote
+[submodule "ESPAsyncTCP"]
+	path = ESPAsyncTCP
+	url = https://github.com/gondolar/ESPAsyncTCP
+[submodule "phyton"]
+	path = phyton
+	url = https://github.com/asm128/phyton.git
+[submodule "pyholder"]
+	path = pyholder
+	url = https://github.com/gondolar/pyholder
+[submodule "Adafruit_SSD1306"]
+	path = Adafruit_SSD1306
+	url = https://github.com/asm128/Adafruit_SSD1306
+[submodule "Adafruit_ILI9341"]
+	path = Adafruit_ILI9341
+	url = https://github.com/asm128/Adafruit_ILI9341
+[submodule "Adafruit_STMPE610"]
+	path = Adafruit_STMPE610
+	url = https://github.com/asm128/Adafruit_STMPE610
+[submodule "Adafruit_TSC2007"]
+	path = Adafruit_TSC2007
+	url = https://github.com/asm128/Adafruit_TSC2007
+[submodule "Adafruit_TouchScreen"]
+	path = Adafruit_TouchScreen
+	url = https://github.com/asm128/Adafruit_TouchScreen
+[submodule "Adafruit_SH110X"]
+	path = Adafruit_SH110X
+	url = https://github.com/asm128/Adafruit_SH110X
+[submodule "ghostl"]
+	path = ghostl
+	url = https://github.com/asm128/ghostl
