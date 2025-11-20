@@ -109,3 +109,6 @@
 [submodule "ghostl"]
 	path = ghostl
 	url = https://github.com/asm128/ghostl
+[submodule "FastLED"]
+	path = FastLED
+	url = https://github.com/asm128/FastLED
